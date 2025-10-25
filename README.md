@@ -15,7 +15,11 @@ Lightweight and beginner-friendly
 
 📸 Project Preview
 
-<img width="798" height="573" alt="Screenshot 2025-10-25 172537" src="https://github.com/user-attachments/assets/1429aacc-a747-42bd-829a-2db7ae3e127e" />
+
+
+<img width="1449" height="996" alt="Screenshot 2025-10-25 173033" src="https://github.com/user-attachments/assets/e6293061-c83b-467f-b280-347493860fc1" />
+
+
 
 📷 A preview of how the File Organizer sorts files by type automatically.
 
